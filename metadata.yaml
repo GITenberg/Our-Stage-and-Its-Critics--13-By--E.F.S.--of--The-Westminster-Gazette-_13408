@@ -1,0 +1,28 @@
+_repo: Our-Stage-and-Its-Critics--13-By--E.F.S.--of--The-Westminster-Gazette-_13408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spence, Edward Fordham
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '5040'
+    url: http://www.gutenberg.org/2009/agents/5040
+description: Cover -- Contents.
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Great Britain'
+- !lcc 'PN'
+- !lcsh 'Drama'
+- !lcsh 'Criticism'
+title: "Our Stage and Its Critics\r\nBy \"E.F.S.\" of \"The Westminster Gazette\""
+url: http://www.gutenberg.org/ebooks/13408
